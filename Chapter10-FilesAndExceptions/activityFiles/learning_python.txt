@@ -1,0 +1,1 @@
+In python, I can program an instruction that carries your overall goal of the project. To attain this, I learned the basic just like printing a text, doing a loop, working with list and dictionaries, organizing classes ang handling files. These are the things I learned in my python journey. I am looking forward for more ways that python offers to achieve my projects.
